@@ -23,6 +23,14 @@
             <artifactId>spring-context</artifactId>
         </dependency>
 
+        <!-- Lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>system</scope>
+            <systemPath>${basedir}/../lib/lombok.jar</systemPath>
+        </dependency>
+
     </dependencies>
 
 

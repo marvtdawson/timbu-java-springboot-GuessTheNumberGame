@@ -6,10 +6,11 @@
 
     <bean id="numberGenerator" class="com.wholaundry.NumberGeneratorImpl" />
 
-    <bean id="game"  class="com.wholaundry.GameImpl" init-method="reset">
+    <bean id="game"  class="com.wholaundry.GameImpl">
         <property name="numberGenerator" ref="numberGenerator" />
 
     </bean>
 
+    <bean class="org.springframework.context.annotation.CommonAnnotationBeanPostProcessor" />
 
 </beans>
