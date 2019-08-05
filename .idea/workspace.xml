@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0120a842-aad0-4685-ac4b-b10a24eb3579" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/guess-the-number-game.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/java_jouney_series_spring5_guess_the_number_game_application.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/GameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/GameImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/target/classes/com/wholaundry/GameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/wholaundry/GameImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,8 +53,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1OjOrTGW3VI6qJDb3XHkdzVEaoj" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -168,6 +167,7 @@
       <workItem from="1564873621543" duration="2321000" />
       <workItem from="1564911058315" duration="792000" />
       <workItem from="1564952081482" duration="1581000" />
+      <workItem from="1564967870635" duration="1066000" />
     </task>
     <servers />
   </component>
@@ -186,6 +186,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
