@@ -2,15 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0120a842-aad0-4685-ac4b-b10a24eb3579" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/java_jouney_series_spring5_guess_the_number_game_application.jpeg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/GameImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/GameImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/NumberGeneratorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/java/com/wholaundry/NumberGeneratorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/src/main/resources/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/src/main/resources/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/beans.xml" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/beans.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/wholaundry/GameImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/wholaundry/GameImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/wholaundry/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/wholaundry/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/core/target/classes/com/wholaundry/NumberGeneratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/core/target/classes/com/wholaundry/NumberGeneratorImpl.class" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -37,11 +48,6 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>CommonAnnotation</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -56,6 +62,11 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -63,7 +74,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545560664666" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../in28minutes/AngularCourse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -76,18 +87,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/core/src/main/resources" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -132,6 +131,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -167,7 +178,19 @@
       <workItem from="1564873621543" duration="2321000" />
       <workItem from="1564911058315" duration="792000" />
       <workItem from="1564952081482" duration="1581000" />
-      <workItem from="1564967870635" duration="1066000" />
+      <workItem from="1564967870635" duration="2118000" />
+      <workItem from="1565499233175" duration="636000" />
+      <workItem from="1565627969189" duration="1808000" />
+      <workItem from="1566757506895" duration="597000" />
+      <workItem from="1566772042522" duration="479000" />
+      <workItem from="1568538043147" duration="1773000" />
+      <workItem from="1568593775589" duration="624000" />
+      <workItem from="1568605586544" duration="480000" />
+      <workItem from="1570427256088" duration="6386000" />
+      <workItem from="1570679520490" duration="603000" />
+      <workItem from="1570779744705" duration="1349000" />
+      <workItem from="1579489791784" duration="2499000" />
+      <workItem from="1579496288917" duration="329000" />
     </task>
     <servers />
   </component>
